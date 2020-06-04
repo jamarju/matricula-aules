@@ -29,6 +29,7 @@ En un terminal:
 
 ```
 cd matricula-aules-master
+conda activate matricula
 ./lanza.sh
 ```
 
@@ -45,6 +46,8 @@ cd matricula-aules-master
 ![](img/tqdm.png)
 
 5. Para generar los PDF de otro curso, repetir desde el paso 2.
+
+Los PDF cumplimentados se guardan en la carpeta `SALIDA_<CURSO>`.
 
 # Notas
 
