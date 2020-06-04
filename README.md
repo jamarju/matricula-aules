@@ -1,18 +1,20 @@
 # Instalación
 
-1. Instalar [miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg).
+Paso 1. Instalar [miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg).
 
-2. Instalar [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg). 
+Paso 2. Instalar [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg). 
 
-3. Descargar este repositorio:
+Paso 3. Descargar este repositorio:
+
 ![](img/download.png)
 
-4. Descomprimir el archivo.
+Paso 4. Descomprimir el archivo.
 
-5. Mover el directorio `matricula-aules-master` a la carpeta personal:
+Paso 5. Mover el directorio `matricula-aules-master` a la carpeta personal:
+
 ![](img/home.png)
 
-6. En un terminal:
+Paso 6. En un terminal:
 
 ```
 conda create -n matricula python=3.7
